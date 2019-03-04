@@ -13,6 +13,11 @@ namespace Web_Project_1.Controllers
             return View();
         }
 
+        public ActionResult Mis2000lab()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
