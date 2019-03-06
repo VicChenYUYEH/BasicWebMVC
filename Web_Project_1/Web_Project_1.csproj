@@ -171,6 +171,9 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Mis2000lab.cshtml" />
     <Content Include="Views\MVC\Index.cshtml" />
+    <Content Include="Views\MVC\RR.cshtml" />
+    <Content Include="Views\MVC\ViewInfo.cshtml" />
+    <Content Include="Views\MVC\ViewError.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
